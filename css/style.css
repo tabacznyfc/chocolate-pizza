@@ -1,37 +1,7 @@
-* {
-  outline: 1px solid orange;
-}
-
-#ingredList {
-
-}
-
-#leftSide {
-
-}
-
-#rightSide {
-
-}
-
-#delDiv {
-  display:inline-block;
-
-}
-#par1{
-  font-size: 23px;
-}
-#par2 {
-      margin-top: -16px;
-}
-#topLogo {
-  display: inline-block;
-}
-#pint {
-  padding-right: 15px;
-}
-.links{
+.links {
   float: right;
-  margin-top: 23px;
-
+  margin-top: 20px;
+}
+.p {
+  font-size: 50px;
 }

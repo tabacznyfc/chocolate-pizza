@@ -1,7 +1,48 @@
-.links {
+#links {
+  padding-top: 0px;
   float: right;
-  margin-top: 20px;
 }
-.p {
-  font-size: 50px;
+.oblique {
+  font-size: 18px;
+  font-style: oblique;
+}
+
+#topLogo {
+  float: left;
+
+}
+
+#par1 {
+  font-family: 'bold Josefin Slab', serif;
+  font-size: 25px;
+}
+
+#par2 {
+  font-family: 'Josefin Slab', serif;
+  font-size: 20px;
+}
+
+#outter {
+  border-left-style: solid;
+  border-bottom-style: solid;
+  border-right-style: solid;    border-top-style: solid;
+  padding: 70px;
+
+}
+
+#Htop {
+  background-color: lightgoldenrodyellow;
+  background-size: auto;
+}
+#bottom {
+  text-align: center;
+}
+
+#email {
+  text-align: right;
+  background-color: gray;
+}
+
+#foot {
+  border-bottom-style: double;
 }
